@@ -170,5 +170,13 @@
         <trackTrending>false</trackTrending>
         <type>Email</type>
         <unique>false</unique>
+
+        <fullName>Age__c</fullName>
+        <externalId>false</externalId>
+        <label>Age</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Age</type>
+        <unique>false</unique>
     </fields>
 </CustomObject>
